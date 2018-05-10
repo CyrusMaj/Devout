@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 41b3b647c4a65df43a57662ffb9f5fb8
+timeCreated: 1474940728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Carno_mesh:Head
+    100002: Carno_mesh:HeadTop_End
+    100004: Carno_mesh:Hips
+    100006: Carno_mesh:LeftArm
+    100008: Carno_mesh:LeftFoot
+    100010: Carno_mesh:LeftForeArm
+    100012: Carno_mesh:LeftHand
+    100014: Carno_mesh:LeftHandIndex1
+    100016: Carno_mesh:LeftHandIndex2
+    100018: Carno_mesh:LeftHandIndex3
+    100020: Carno_mesh:LeftHandIndex4
+    100022: Carno_mesh:LeftHandMiddle1
+    100024: Carno_mesh:LeftHandMiddle2
+    100026: Carno_mesh:LeftHandMiddle3
+    100028: Carno_mesh:LeftHandMiddle4
+    100030: Carno_mesh:LeftHandRing1
+    100032: Carno_mesh:LeftHandRing2
+    100034: Carno_mesh:LeftHandRing3
+    100036: Carno_mesh:LeftHandRing4
+    100038: Carno_mesh:LeftHandThumb1
+    100040: Carno_mesh:LeftHandThumb2
+    100042: Carno_mesh:LeftHandThumb3
+    100044: Carno_mesh:LeftHandThumb4
+    100046: Carno_mesh:LeftLeg
+    100048: Carno_mesh:LeftShoulder
+    100050: Carno_mesh:LeftToe_End
+    100052: Carno_mesh:LeftToeBase
+    100054: Carno_mesh:LeftUpLeg
+    100056: Carno_mesh:Neck
+    100058: Carno_mesh:RightArm
+    100060: Carno_mesh:RightFoot
+    100062: Carno_mesh:RightForeArm
+    100064: Carno_mesh:RightHand
+    100066: Carno_mesh:RightHandIndex1
+    100068: Carno_mesh:RightHandIndex2
+    100070: Carno_mesh:RightHandIndex3
+    100072: Carno_mesh:RightHandIndex4
+    100074: Carno_mesh:RightHandMiddle1
+    100076: Carno_mesh:RightHandMiddle2
+    100078: Carno_mesh:RightHandMiddle3
+    100080: Carno_mesh:RightHandMiddle4
+    100082: Carno_mesh:RightHandRing1
+    100084: Carno_mesh:RightHandRing2
+    100086: Carno_mesh:RightHandRing3
+    100088: Carno_mesh:RightHandRing4
+    100090: Carno_mesh:RightHandThumb1
+    100092: Carno_mesh:RightHandThumb2
+    100094: Carno_mesh:RightHandThumb3
+    100096: Carno_mesh:RightHandThumb4
+    100098: Carno_mesh:RightLeg
+    100100: Carno_mesh:RightShoulder
+    100102: Carno_mesh:RightToe_End
+    100104: Carno_mesh:RightToeBase
+    100106: Carno_mesh:RightUpLeg
+    100108: Carno_mesh:Spine
+    100110: Carno_mesh:Spine1
+    100112: Carno_mesh:Spine2
+    100114: //RootNode
+    400000: Carno_mesh:Head
+    400002: Carno_mesh:HeadTop_End
+    400004: Carno_mesh:Hips
+    400006: Carno_mesh:LeftArm
+    400008: Carno_mesh:LeftFoot
+    400010: Carno_mesh:LeftForeArm
+    400012: Carno_mesh:LeftHand
+    400014: Carno_mesh:LeftHandIndex1
+    400016: Carno_mesh:LeftHandIndex2
+    400018: Carno_mesh:LeftHandIndex3
+    400020: Carno_mesh:LeftHandIndex4
+    400022: Carno_mesh:LeftHandMiddle1
+    400024: Carno_mesh:LeftHandMiddle2
+    400026: Carno_mesh:LeftHandMiddle3
+    400028: Carno_mesh:LeftHandMiddle4
+    400030: Carno_mesh:LeftHandRing1
+    400032: Carno_mesh:LeftHandRing2
+    400034: Carno_mesh:LeftHandRing3
+    400036: Carno_mesh:LeftHandRing4
+    400038: Carno_mesh:LeftHandThumb1
+    400040: Carno_mesh:LeftHandThumb2
+    400042: Carno_mesh:LeftHandThumb3
+    400044: Carno_mesh:LeftHandThumb4
+    400046: Carno_mesh:LeftLeg
+    400048: Carno_mesh:LeftShoulder
+    400050: Carno_mesh:LeftToe_End
+    400052: Carno_mesh:LeftToeBase
+    400054: Carno_mesh:LeftUpLeg
+    400056: Carno_mesh:Neck
+    400058: Carno_mesh:RightArm
+    400060: Carno_mesh:RightFoot
+    400062: Carno_mesh:RightForeArm
+    400064: Carno_mesh:RightHand
+    400066: Carno_mesh:RightHandIndex1
+    400068: Carno_mesh:RightHandIndex2
+    400070: Carno_mesh:RightHandIndex3
+    400072: Carno_mesh:RightHandIndex4
+    400074: Carno_mesh:RightHandMiddle1
+    400076: Carno_mesh:RightHandMiddle2
+    400078: Carno_mesh:RightHandMiddle3
+    400080: Carno_mesh:RightHandMiddle4
+    400082: Carno_mesh:RightHandRing1
+    400084: Carno_mesh:RightHandRing2
+    400086: Carno_mesh:RightHandRing3
+    400088: Carno_mesh:RightHandRing4
+    400090: Carno_mesh:RightHandThumb1
+    400092: Carno_mesh:RightHandThumb2
+    400094: Carno_mesh:RightHandThumb3
+    400096: Carno_mesh:RightHandThumb4
+    400098: Carno_mesh:RightLeg
+    400100: Carno_mesh:RightShoulder
+    400102: Carno_mesh:RightToe_End
+    400104: Carno_mesh:RightToeBase
+    400106: Carno_mesh:RightUpLeg
+    400108: Carno_mesh:Spine
+    400110: Carno_mesh:Spine1
+    400112: Carno_mesh:Spine2
+    400114: //RootNode
+    7400000: strafe_run_R
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Carno_mesh:Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: strafe_run_R
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Carno_mesh:Hips
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:LeftUpLeg
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:LeftUpLeg/Carno_mesh:LeftLeg
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:LeftUpLeg/Carno_mesh:LeftLeg/Carno_mesh:LeftFoot
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:LeftUpLeg/Carno_mesh:LeftLeg/Carno_mesh:LeftFoot/Carno_mesh:LeftToeBase
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:LeftUpLeg/Carno_mesh:LeftLeg/Carno_mesh:LeftFoot/Carno_mesh:LeftToeBase/Carno_mesh:LeftToe_End
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:RightUpLeg
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:RightUpLeg/Carno_mesh:RightLeg
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:RightUpLeg/Carno_mesh:RightLeg/Carno_mesh:RightFoot
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:RightUpLeg/Carno_mesh:RightLeg/Carno_mesh:RightFoot/Carno_mesh:RightToeBase
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:RightUpLeg/Carno_mesh:RightLeg/Carno_mesh:RightFoot/Carno_mesh:RightToeBase/Carno_mesh:RightToe_End
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandIndex1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandIndex1/Carno_mesh:LeftHandIndex2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandIndex1/Carno_mesh:LeftHandIndex2/Carno_mesh:LeftHandIndex3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandIndex1/Carno_mesh:LeftHandIndex2/Carno_mesh:LeftHandIndex3/Carno_mesh:LeftHandIndex4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandMiddle1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandMiddle1/Carno_mesh:LeftHandMiddle2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandMiddle1/Carno_mesh:LeftHandMiddle2/Carno_mesh:LeftHandMiddle3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandMiddle1/Carno_mesh:LeftHandMiddle2/Carno_mesh:LeftHandMiddle3/Carno_mesh:LeftHandMiddle4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandRing1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandRing1/Carno_mesh:LeftHandRing2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandRing1/Carno_mesh:LeftHandRing2/Carno_mesh:LeftHandRing3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandRing1/Carno_mesh:LeftHandRing2/Carno_mesh:LeftHandRing3/Carno_mesh:LeftHandRing4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandThumb1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandThumb1/Carno_mesh:LeftHandThumb2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandThumb1/Carno_mesh:LeftHandThumb2/Carno_mesh:LeftHandThumb3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:LeftShoulder/Carno_mesh:LeftArm/Carno_mesh:LeftForeArm/Carno_mesh:LeftHand/Carno_mesh:LeftHandThumb1/Carno_mesh:LeftHandThumb2/Carno_mesh:LeftHandThumb3/Carno_mesh:LeftHandThumb4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:Neck
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:Neck/Carno_mesh:Head
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:Neck/Carno_mesh:Head/Carno_mesh:HeadTop_End
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandIndex1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandIndex1/Carno_mesh:RightHandIndex2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandIndex1/Carno_mesh:RightHandIndex2/Carno_mesh:RightHandIndex3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandIndex1/Carno_mesh:RightHandIndex2/Carno_mesh:RightHandIndex3/Carno_mesh:RightHandIndex4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandMiddle1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandMiddle1/Carno_mesh:RightHandMiddle2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandMiddle1/Carno_mesh:RightHandMiddle2/Carno_mesh:RightHandMiddle3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandMiddle1/Carno_mesh:RightHandMiddle2/Carno_mesh:RightHandMiddle3/Carno_mesh:RightHandMiddle4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandRing1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandRing1/Carno_mesh:RightHandRing2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandRing1/Carno_mesh:RightHandRing2/Carno_mesh:RightHandRing3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandRing1/Carno_mesh:RightHandRing2/Carno_mesh:RightHandRing3/Carno_mesh:RightHandRing4
+        weight: 0
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandThumb1
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandThumb1/Carno_mesh:RightHandThumb2
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandThumb1/Carno_mesh:RightHandThumb2/Carno_mesh:RightHandThumb3
+        weight: 1
+      - path: Carno_mesh:Hips/Carno_mesh:Spine/Carno_mesh:Spine1/Carno_mesh:Spine2/Carno_mesh:RightShoulder/Carno_mesh:RightArm/Carno_mesh:RightForeArm/Carno_mesh:RightHand/Carno_mesh:RightHandThumb1/Carno_mesh:RightHandThumb2/Carno_mesh:RightHandThumb3/Carno_mesh:RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: Carno_mesh:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carno_mesh:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: scales_body(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Body1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Hips
+      position: {x: -0.0005969513, y: 1.4327462, z: 0.009765335}
+      rotation: {x: 0.06741003, y: 0.18314505, z: -0.009461845, w: 0.9807264}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Spine
+      position: {x: -0, y: 0.11434311, z: -0.021591935}
+      rotation: {x: -0.089520514, y: 0.00049583113, z: -0.0041410048, w: 0.99597627}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Spine1
+      position: {x: -0, y: 0.13575786, z: -1.9806065e-10}
+      rotation: {x: 1.1158409e-25, y: -1.6846328e-13, z: 6.6236453e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Spine2
+      position: {x: -0, y: 0.15515167, z: 0.0000000018035728}
+      rotation: {x: -0, y: -2.019484e-28, z: -1.5146129e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Neck
+      position: {x: -0, y: 0.17454578, z: 0.000000047181295}
+      rotation: {x: -0.080666214, y: -0.00034566637, z: 0.00034934378, w: 0.99674106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:Head
+      position: {x: -0, y: 0.07163635, z: 0.05873607}
+      rotation: {x: 0, y: 0, z: 1.8932654e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:HeadTop_End
+      position: {x: -0, y: 0.35049286, z: 0.28737605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftShoulder
+      position: {x: -0.12892306, y: 0.18510239, z: -0.00088254095}
+      rotation: {x: 0.43474552, y: -0.5585077, z: 0.47643983, w: 0.5216039}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftArm
+      position: {x: 3.385749e-10, y: 0.24965265, z: 4.3388837e-10}
+      rotation: {x: 0.09636348, y: -0.12783188, z: 0.098966874, w: 0.98212963}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftForeArm
+      position: {x: -0.0000000015440312, y: 0.4450839, z: -0.000000012566704}
+      rotation: {x: -0.00000006056619, y: 0.0011692948, z: 0.0000003776853, w: 0.99999934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHand
+      position: {x: -4.2705128e-10, y: 0.41167948, z: -0.000000012074021}
+      rotation: {x: 0.031303048, y: -0.06282011, z: 0.03435656, w: 0.99694204}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandThumb1
+      position: {x: 0.06644364, y: 0.037379447, z: 0.018947786}
+      rotation: {x: -0.037202977, y: 0.057180125, z: -0.13017032, w: 0.9891421}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandThumb2
+      position: {x: 0.031884387, y: 0.054155633, z: -0.0000000020477577}
+      rotation: {x: 0.0073339455, y: 0.020837724, z: -0.19242921, w: 0.98106223}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandThumb3
+      position: {x: 0.01359918, y: 0.09330301, z: 0.000000003887444}
+      rotation: {x: -0.0014965847, y: 0.008578658, z: -0.31212208, w: 0.9500021}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandThumb4
+      position: {x: -0.045483563, y: 0.085243955, z: -4.0616938e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandRing1
+      position: {x: -0.07218926, y: 0.13827732, z: 0.0077098887}
+      rotation: {x: -0.03737098, y: -0.01987014, z: 0.10954364, w: 0.9930805}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandRing2
+      position: {x: 0.03010835, y: 0.10363236, z: -2.1822956e-10}
+      rotation: {x: 0.0032324684, y: 0.020015988, z: -0.122313276, w: 0.9922844}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandRing3
+      position: {x: 0.0043720347, y: 0.11667818, z: -0.0000000017886432}
+      rotation: {x: 0.016826505, y: -0.07147832, z: -0.26471093, w: 0.9615279}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandRing4
+      position: {x: -0.03448038, y: 0.063139305, z: 7.897034e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandMiddle1
+      position: {x: 0.010481789, y: 0.16163564, z: -0.010832978}
+      rotation: {x: -0.03312671, y: 0.004504888, z: 0.017277505, w: 0.99929166}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandMiddle2
+      position: {x: 0.010232149, y: 0.102543056, z: 0.0000000010469497}
+      rotation: {x: 0.00014876375, y: 0.0023755545, z: -0.036950972, w: 0.99931425}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandMiddle3
+      position: {x: 0.0024340467, y: 0.09530154, z: -0.0000000017277477}
+      rotation: {x: 0.00027168242, y: -0.004713353, z: -0.08306347, w: 0.9965331}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandMiddle4
+      position: {x: -0.012666199, y: 0.089370556, z: -2.1354139e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandIndex1
+      position: {x: 0.061707478, y: 0.14892595, z: -0.016524164}
+      rotation: {x: -0.032734152, y: 0.0077642146, z: 0.043996852, w: 0.99846506}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandIndex2
+      position: {x: 0.015306236, y: 0.09918645, z: -0.0000000012006544}
+      rotation: {x: 0.00048695516, y: 0.005577251, z: -0.06594264, w: 0.99780774}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandIndex3
+      position: {x: 0.002003153, y: 0.09480054, z: 0.0000000016815798}
+      rotation: {x: 0.0008746839, y: -0.009854797, z: -0.10943926, w: 0.9939443}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftHandIndex4
+      position: {x: -0.017309379, y: 0.08618304, z: -4.972172e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightShoulder
+      position: {x: 0.12892306, y: 0.18405358, z: 0.0046714945}
+      rotation: {x: 0.47975364, y: 0.52112794, z: -0.42352372, w: 0.56470335}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightArm
+      position: {x: 2.1204499e-10, y: 0.24965265, z: 3.339673e-10}
+      rotation: {x: 0.080390096, y: 0.1392769, z: 0.11350649, w: 0.98043644}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightForeArm
+      position: {x: -0.0000000022699322, y: 0.44739047, z: 0.000000005334285}
+      rotation: {x: -0.00000048434663, y: -0.0017282576, z: -0.00000008377193, w: 0.9999985}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHand
+      position: {x: -3.7779058e-11, y: 0.41191828, z: 0.000000006852333}
+      rotation: {x: 0.03778851, y: 0.027328936, z: -0.044812325, w: 0.9979063}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandThumb1
+      position: {x: -0.06965757, y: 0.039917555, z: 0.020087928}
+      rotation: {x: -0.0409305, y: -0.06846148, z: 0.13906713, w: 0.9870654}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandThumb2
+      position: {x: -0.033944555, y: 0.05684364, z: -1.4354726e-10}
+      rotation: {x: 0.005503966, y: -0.016453052, z: 0.213834, w: 0.9767159}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandThumb3
+      position: {x: -0.009593529, y: 0.08909777, z: 0.000000002484025}
+      rotation: {x: -0.0021177784, y: -0.011114921, z: 0.29123682, w: 0.9565841}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandThumb4
+      position: {x: 0.043538086, y: 0.08285563, z: 1.9538504e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandIndex1
+      position: {x: -0.059021305, y: 0.14945675, z: -0.015629513}
+      rotation: {x: -0.0379156, y: -0.010917252, z: -0.034109235, w: 0.998639}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandIndex2
+      position: {x: -0.015950583, y: 0.10107742, z: 0.0000000039780956}
+      rotation: {x: 0.00049267866, y: -0.0060156896, z: 0.07474545, w: 0.9971844}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandIndex3
+      position: {x: -0.00063209777, y: 0.09177376, z: -0.0000000012104511}
+      rotation: {x: 0.000914191, y: 0.009743518, z: 0.1002321, w: 0.99491596}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandIndex4
+      position: {x: 0.016582685, y: 0.084438376, z: -6.0589855e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandRing1
+      position: {x: 0.07191165, y: 0.13838387, z: 0.008206408}
+      rotation: {x: -0.045170113, y: 0.029241635, z: -0.10064404, w: 0.9934664}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandRing2
+      position: {x: -0.029566206, y: 0.100257054, z: -0.0000000030543426}
+      rotation: {x: 0.003480797, y: -0.020948365, z: 0.12179092, w: 0.99232864}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandRing3
+      position: {x: -0.0049508777, y: 0.116342254, z: 0.000000001485657}
+      rotation: {x: 0.017159045, y: 0.07310006, z: 0.2689482, w: 0.9602233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandRing4
+      position: {x: 0.034517083, y: 0.06263761, z: 4.011855e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandMiddle1
+      position: {x: -0.012890337, y: 0.14651686, z: -0.011488143}
+      rotation: {x: -0.038847927, y: -0.0030296983, z: 0.019380065, w: 0.9990526}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandMiddle2
+      position: {x: -0.005036485, y: 0.10272014, z: 4.803887e-10}
+      rotation: {x: 0.000009486047, y: -0.00019832804, z: -0.000037059865, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandMiddle3
+      position: {x: -0.004990571, y: 0.10164763, z: -0.0000000020730389}
+      rotation: {x: 0.00006468536, y: 0.0022471712, z: 0.07775673, w: 0.9969698}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightHandMiddle4
+      position: {x: 0.010027061, y: 0.09369734, z: -0.0000000017356093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftUpLeg
+      position: {x: -0.07913764, y: -0.063495025, z: -0.078090325}
+      rotation: {x: -0.028178856, y: 0.15303934, z: 0.984206, w: 0.08440055}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftLeg
+      position: {x: -0.0000000043068136, y: 0.57585853, z: -0.0000000038201344}
+      rotation: {x: -0.29603928, y: 0.20134583, z: 0.0632025, w: 0.93157184}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftFoot
+      position: {x: 0.0000000010525698, y: 0.61163044, z: -0.0000000027243552}
+      rotation: {x: 0.6160898, y: -0.18281302, z: 0.08359341, w: 0.7615937}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftToeBase
+      position: {x: 3.0374386e-10, y: 0.3604738, z: 0.0000000030693015}
+      rotation: {x: 0.14846502, y: -0.0025729062, z: -0.017135352, w: 0.9887659}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:LeftToe_End
+      position: {x: -4.963798e-11, y: 0.12947562, z: -0.0000000017177068}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightUpLeg
+      position: {x: 0.07913764, y: -0.063495025, z: 0.061506614}
+      rotation: {x: -0.000005892127, y: 0.053064775, z: 0.99440914, w: -0.09129459}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightLeg
+      position: {x: 0.0000000027930815, y: 0.5624925, z: 3.1232048e-10}
+      rotation: {x: -0.2148964, y: -0.34043968, z: -0.07184596, w: 0.912556}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightFoot
+      position: {x: 3.7146555e-10, y: 0.61448187, z: 5.371498e-10}
+      rotation: {x: 0.59502935, y: 0.31325734, z: -0.18026602, w: 0.7178539}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightToeBase
+      position: {x: -1.7644385e-10, y: 0.36559054, z: 0.0000000045526214}
+      rotation: {x: 0.14501381, y: 0.0024788706, z: 0.01691085, w: 0.989282}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carno_mesh:RightToe_End
+      position: {x: 9.59804e-11, y: 0.12950858, z: -0.0000000014939243}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3d825ccc333df57479e3a537134549e3,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!55 &1
+PhysicsManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 3
+  m_Gravity: {x: 0, y: -9.81, z: 0}
+  m_DefaultMaterial: {fileID: 13400000, guid: 43af4688ac615b14a988d84804b2ae9c, type: 2}
+  m_BounceThreshold: 3
+  m_SleepThreshold: 0.02
+  m_DefaultContactOffset: 0.01
+  m_DefaultSolverIterations: 7
+  m_DefaultSolverVelocityIterations: 1
+  m_QueriesHitBackfaces: 0
+  m_QueriesHitTriggers: 0
+  m_EnableAdaptiveForce: 0
+  m_EnablePCM: 1
+  m_LayerCollisionMatrix: ffabfac1ff0040c1ff0040c1ffffffffff0060c1ff0040c1ffffffffffffffffc901e0f1c902e0f1c8a04ac1c95065f1c8884ac1c94465f1c8284ac1c91445f1c8a848c1c95444f1c8a842c1c95441f1c900c0c1d92b40e1ffff7fc1c90310e9ffffffc1c80000c0c80000c4c80080c0c8ab0ac0c8abaae0ffffffffffffffff

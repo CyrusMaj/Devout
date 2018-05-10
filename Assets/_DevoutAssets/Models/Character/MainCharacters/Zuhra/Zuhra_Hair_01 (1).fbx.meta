@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: ccb905764f196fe43bbcc14b0eeffec1
+timeCreated: 1467307564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Head
+    100002: Left_Braid01
+    100004: Left_Braid02
+    100006: Left_Braid03
+    100008: Left_Braid04
+    100010: Left_Braid05
+    100012: Left_Braid06
+    100014: Left_Braid07
+    100016: Left_Braid08
+    100018: Left_Braid09
+    100020: Left_Braid10
+    100022: Left_Braid11
+    100024: Right_Braid01
+    100026: Right_Braid02
+    100028: Right_Braid03
+    100030: Right_Braid04
+    100032: Right_Braid05
+    100034: Right_Braid06
+    100036: Right_Braid07
+    100038: Right_Braid08
+    100040: Right_Braid09
+    100042: Right_Braid10
+    100044: Right_Braid11
+    100046: Zuhra_hair
+    100048: Zuhra_hair 1
+    100050: //RootNode
+    400000: Head
+    400002: Left_Braid01
+    400004: Left_Braid02
+    400006: Left_Braid03
+    400008: Left_Braid04
+    400010: Left_Braid05
+    400012: Left_Braid06
+    400014: Left_Braid07
+    400016: Left_Braid08
+    400018: Left_Braid09
+    400020: Left_Braid10
+    400022: Left_Braid11
+    400024: Right_Braid01
+    400026: Right_Braid02
+    400028: Right_Braid03
+    400030: Right_Braid04
+    400032: Right_Braid05
+    400034: Right_Braid06
+    400036: Right_Braid07
+    400038: Right_Braid08
+    400040: Right_Braid09
+    400042: Right_Braid10
+    400044: Right_Braid11
+    400046: Zuhra_hair
+    400048: Zuhra_hair 1
+    400050: //RootNode
+    4300000: Zuhra_hair
+    9500000: //RootNode
+    13700000: Zuhra_hair 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

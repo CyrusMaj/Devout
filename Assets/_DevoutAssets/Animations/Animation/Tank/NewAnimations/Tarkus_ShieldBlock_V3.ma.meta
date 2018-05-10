@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 4f2d93a2da96df944b1d729c6e45e4b6
+timeCreated: 1479449985
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: club
+    100002: shield
+    100004: Tarkus_Rig_V11:Arms
+    100006: Tarkus_Rig_V11:Chest_Ctrl
+    100008: Tarkus_Rig_V11:Chest_O
+    100010: Tarkus_Rig_V11:Feather
+    100012: Tarkus_Rig_V11:Head
+    100014: Tarkus_Rig_V11:Head_Ctrl
+    100016: Tarkus_Rig_V11:Head_O
+    100018: Tarkus_Rig_V11:Left_Arm_FK_Ctrl
+    100020: Tarkus_Rig_V11:Left_Arm_FK_O
+    100022: Tarkus_Rig_V11:Left_Arm_IK
+    100024: Tarkus_Rig_V11:Left_Arm_IK_Ctrl
+    100026: Tarkus_Rig_V11:Left_Arm_IK_O
+    100028: Tarkus_Rig_V11:Left_Ball
+    100030: Tarkus_Rig_V11:Left_Ball_IK
+    100032: Tarkus_Rig_V11:Left_Ball_O
+    100034: Tarkus_Rig_V11:Left_Elbow_FK_Ctrl
+    100036: Tarkus_Rig_V11:Left_Elbow_FK_O
+    100038: Tarkus_Rig_V11:Left_Eye
+    100040: Tarkus_Rig_V11:Left_Fingers_grp
+    100042: Tarkus_Rig_V11:Left_Grind
+    100044: Tarkus_Rig_V11:Left_Grind_O
+    100046: Tarkus_Rig_V11:Left_Hand_Ctrl
+    100048: Tarkus_Rig_V11:Left_HeelPivot
+    100050: Tarkus_Rig_V11:Left_HeelPivot_O
+    100052: Tarkus_Rig_V11:Left_Leg_IK
+    100054: Tarkus_Rig_V11:Left_Leg_IK_Ctrl
+    100056: Tarkus_Rig_V11:Left_Leg_IK_O
+    100058: Tarkus_Rig_V11:Left_Shoulder_Ctrl
+    100060: Tarkus_Rig_V11:Left_Shoulder_O
+    100062: Tarkus_Rig_V11:Left_StandTip
+    100064: Tarkus_Rig_V11:Left_StandTip_O
+    100066: Tarkus_Rig_V11:Left_Thumb_Ctrl
+    100068: Tarkus_Rig_V11:Left_Thumb_O
+    100070: Tarkus_Rig_V11:Left_Toe_IK
+    100072: Tarkus_Rig_V11:Left_ToeTap
+    100074: Tarkus_Rig_V11:Left_ToeTap_O
+    100076: Tarkus_Rig_V11:Left_Wrist_FK_Ctrl
+    100078: Tarkus_Rig_V11:Left_Wrist_FK_O
+    100080: Tarkus_Rig_V11:LowerBody
+    100082: Tarkus_Rig_V11:Master:_ctrl
+    100084: Tarkus_Rig_V11:mixamorig:Head
+    100086: Tarkus_Rig_V11:mixamorig:HeadTop_End
+    100088: Tarkus_Rig_V11:mixamorig:Hips
+    100090: Tarkus_Rig_V11:mixamorig:LeftArm
+    100092: Tarkus_Rig_V11:mixamorig:LeftFoot
+    100094: Tarkus_Rig_V11:mixamorig:LeftForeArm
+    100096: Tarkus_Rig_V11:mixamorig:LeftHand
+    100098: Tarkus_Rig_V11:mixamorig:LeftHandIndex1
+    100100: Tarkus_Rig_V11:mixamorig:LeftHandIndex2
+    100102: Tarkus_Rig_V11:mixamorig:LeftHandIndex3
+    100104: Tarkus_Rig_V11:mixamorig:LeftHandIndex4
+    100106: Tarkus_Rig_V11:mixamorig:LeftHandMiddle1
+    100108: Tarkus_Rig_V11:mixamorig:LeftHandMiddle2
+    100110: Tarkus_Rig_V11:mixamorig:LeftHandMiddle3
+    100112: Tarkus_Rig_V11:mixamorig:LeftHandMiddle4
+    100114: Tarkus_Rig_V11:mixamorig:LeftHandPinky1
+    100116: Tarkus_Rig_V11:mixamorig:LeftHandPinky2
+    100118: Tarkus_Rig_V11:mixamorig:LeftHandPinky3
+    100120: Tarkus_Rig_V11:mixamorig:LeftHandPinky4
+    100122: Tarkus_Rig_V11:mixamorig:LeftHandRing1
+    100124: Tarkus_Rig_V11:mixamorig:LeftHandRing2
+    100126: Tarkus_Rig_V11:mixamorig:LeftHandRing3
+    100128: Tarkus_Rig_V11:mixamorig:LeftHandRing4
+    100130: Tarkus_Rig_V11:mixamorig:LeftHandThumb1
+    100132: Tarkus_Rig_V11:mixamorig:LeftHandThumb2
+    100134: Tarkus_Rig_V11:mixamorig:LeftHandThumb3
+    100136: Tarkus_Rig_V11:mixamorig:LeftHandThumb4
+    100138: Tarkus_Rig_V11:mixamorig:LeftLeg
+    100140: Tarkus_Rig_V11:mixamorig:LeftShoulder
+    100142: Tarkus_Rig_V11:mixamorig:LeftToe_End
+    100144: Tarkus_Rig_V11:mixamorig:LeftToeBase
+    100146: Tarkus_Rig_V11:mixamorig:LeftUpLeg
+    100148: Tarkus_Rig_V11:mixamorig:Neck
+    100150: Tarkus_Rig_V11:mixamorig:RightArm
+    100152: Tarkus_Rig_V11:mixamorig:RightFoot
+    100154: Tarkus_Rig_V11:mixamorig:RightForeArm
+    100156: Tarkus_Rig_V11:mixamorig:RightHand
+    100158: Tarkus_Rig_V11:mixamorig:RightHandIndex1
+    100160: Tarkus_Rig_V11:mixamorig:RightHandIndex2
+    100162: Tarkus_Rig_V11:mixamorig:RightHandIndex3
+    100164: Tarkus_Rig_V11:mixamorig:RightHandIndex4
+    100166: Tarkus_Rig_V11:mixamorig:RightHandMiddle1
+    100168: Tarkus_Rig_V11:mixamorig:RightHandMiddle2
+    100170: Tarkus_Rig_V11:mixamorig:RightHandMiddle3
+    100172: Tarkus_Rig_V11:mixamorig:RightHandMiddle4
+    100174: Tarkus_Rig_V11:mixamorig:RightHandPinky1
+    100176: Tarkus_Rig_V11:mixamorig:RightHandPinky2
+    100178: Tarkus_Rig_V11:mixamorig:RightHandPinky3
+    100180: Tarkus_Rig_V11:mixamorig:RightHandPinky4
+    100182: Tarkus_Rig_V11:mixamorig:RightHandRing1
+    100184: Tarkus_Rig_V11:mixamorig:RightHandRing2
+    100186: Tarkus_Rig_V11:mixamorig:RightHandRing3
+    100188: Tarkus_Rig_V11:mixamorig:RightHandRing4
+    100190: Tarkus_Rig_V11:mixamorig:RightHandThumb1
+    100192: Tarkus_Rig_V11:mixamorig:RightHandThumb2
+    100194: Tarkus_Rig_V11:mixamorig:RightHandThumb3
+    100196: Tarkus_Rig_V11:mixamorig:RightHandThumb4
+    100198: Tarkus_Rig_V11:mixamorig:RightLeg
+    100200: Tarkus_Rig_V11:mixamorig:RightShoulder
+    100202: Tarkus_Rig_V11:mixamorig:RightToe_End
+    100204: Tarkus_Rig_V11:mixamorig:RightToeBase
+    100206: Tarkus_Rig_V11:mixamorig:RightUpLeg
+    100208: Tarkus_Rig_V11:mixamorig:Spine
+    100210: Tarkus_Rig_V11:mixamorig:Spine1
+    100212: Tarkus_Rig_V11:mixamorig:Spine2
+    100214: Tarkus_Rig_V11:Neck_Ctrl
+    100216: Tarkus_Rig_V11:Neck_O
+    100218: Tarkus_Rig_V11:Right_Arm_FK_Ctrl
+    100220: Tarkus_Rig_V11:Right_Arm_FK_O
+    100222: Tarkus_Rig_V11:Right_Arm_IK
+    100224: Tarkus_Rig_V11:Right_Arm_IK_Ctrl
+    100226: Tarkus_Rig_V11:Right_Arm_IK_O
+    100228: Tarkus_Rig_V11:Right_Ball
+    100230: Tarkus_Rig_V11:Right_Ball_IK
+    100232: Tarkus_Rig_V11:Right_Ball_O
+    100234: Tarkus_Rig_V11:Right_Elbow_FK_Ctrl
+    100236: Tarkus_Rig_V11:Right_Elbow_FK_O
+    100238: Tarkus_Rig_V11:Right_Eye
+    100240: Tarkus_Rig_V11:Right_Fingers_grp
+    100242: Tarkus_Rig_V11:Right_Grind
+    100244: Tarkus_Rig_V11:Right_Grind_O
+    100246: Tarkus_Rig_V11:Right_Hand_Ctrl
+    100248: Tarkus_Rig_V11:Right_HeelPivot
+    100250: Tarkus_Rig_V11:Right_HeelPivot_O
+    100252: Tarkus_Rig_V11:Right_Leg_IK
+    100254: Tarkus_Rig_V11:Right_Leg_IK_Ctrl
+    100256: Tarkus_Rig_V11:Right_Leg_IK_O
+    100258: Tarkus_Rig_V11:Right_Shoulder_Ctrl
+    100260: Tarkus_Rig_V11:Right_Shoulder_O
+    100262: Tarkus_Rig_V11:Right_StandTip
+    100264: Tarkus_Rig_V11:Right_StandTip_O
+    100266: Tarkus_Rig_V11:Right_Thumb_Ctrl
+    100268: Tarkus_Rig_V11:Right_Thumb_O
+    100270: Tarkus_Rig_V11:Right_Toe_IK
+    100272: Tarkus_Rig_V11:Right_ToeTap
+    100274: Tarkus_Rig_V11:Right_ToeTap_O
+    100276: Tarkus_Rig_V11:Right_Wrist_FK_Ctrl
+    100278: Tarkus_Rig_V11:Right_Wrist_FK_O
+    100280: Tarkus_Rig_V11:Root_Ctrl
+    100282: Tarkus_Rig_V11:Root_O
+    100284: Tarkus_Rig_V11:Shoulder_L
+    100286: Tarkus_Rig_V11:Shoulder_R
+    100288: Tarkus_Rig_V11:Spine01_Ctrl
+    100290: Tarkus_Rig_V11:Spine01_O
+    100292: Tarkus_Rig_V11:Spine_Ctrl
+    100294: Tarkus_Rig_V11:Spine_O
+    100296: Tarkus_Rig_V11:Tarkus_Mesh
+    100298: Tarkus_Rig_V11:TarkusRig
+    100300: Tarkus_Rig_V11:Torso
+    100302: //RootNode
+    400000: club
+    400002: shield
+    400004: Tarkus_Rig_V11:Arms
+    400006: Tarkus_Rig_V11:Chest_Ctrl
+    400008: Tarkus_Rig_V11:Chest_O
+    400010: Tarkus_Rig_V11:Feather
+    400012: Tarkus_Rig_V11:Head
+    400014: Tarkus_Rig_V11:Head_Ctrl
+    400016: Tarkus_Rig_V11:Head_O
+    400018: Tarkus_Rig_V11:Left_Arm_FK_Ctrl
+    400020: Tarkus_Rig_V11:Left_Arm_FK_O
+    400022: Tarkus_Rig_V11:Left_Arm_IK
+    400024: Tarkus_Rig_V11:Left_Arm_IK_Ctrl
+    400026: Tarkus_Rig_V11:Left_Arm_IK_O
+    400028: Tarkus_Rig_V11:Left_Ball
+    400030: Tarkus_Rig_V11:Left_Ball_IK
+    400032: Tarkus_Rig_V11:Left_Ball_O
+    400034: Tarkus_Rig_V11:Left_Elbow_FK_Ctrl
+    400036: Tarkus_Rig_V11:Left_Elbow_FK_O
+    400038: Tarkus_Rig_V11:Left_Eye
+    400040: Tarkus_Rig_V11:Left_Fingers_grp
+    400042: Tarkus_Rig_V11:Left_Grind
+    400044: Tarkus_Rig_V11:Left_Grind_O
+    400046: Tarkus_Rig_V11:Left_Hand_Ctrl
+    400048: Tarkus_Rig_V11:Left_HeelPivot
+    400050: Tarkus_Rig_V11:Left_HeelPivot_O
+    400052: Tarkus_Rig_V11:Left_Leg_IK
+    400054: Tarkus_Rig_V11:Left_Leg_IK_Ctrl
+    400056: Tarkus_Rig_V11:Left_Leg_IK_O
+    400058: Tarkus_Rig_V11:Left_Shoulder_Ctrl
+    400060: Tarkus_Rig_V11:Left_Shoulder_O
+    400062: Tarkus_Rig_V11:Left_StandTip
+    400064: Tarkus_Rig_V11:Left_StandTip_O
+    400066: Tarkus_Rig_V11:Left_Thumb_Ctrl
+    400068: Tarkus_Rig_V11:Left_Thumb_O
+    400070: Tarkus_Rig_V11:Left_Toe_IK
+    400072: Tarkus_Rig_V11:Left_ToeTap
+    400074: Tarkus_Rig_V11:Left_ToeTap_O
+    400076: Tarkus_Rig_V11:Left_Wrist_FK_Ctrl
+    400078: Tarkus_Rig_V11:Left_Wrist_FK_O
+    400080: Tarkus_Rig_V11:LowerBody
+    400082: Tarkus_Rig_V11:Master:_ctrl
+    400084: Tarkus_Rig_V11:mixamorig:Head
+    400086: Tarkus_Rig_V11:mixamorig:HeadTop_End
+    400088: Tarkus_Rig_V11:mixamorig:Hips
+    400090: Tarkus_Rig_V11:mixamorig:LeftArm
+    400092: Tarkus_Rig_V11:mixamorig:LeftFoot
+    400094: Tarkus_Rig_V11:mixamorig:LeftForeArm
+    400096: Tarkus_Rig_V11:mixamorig:LeftHand
+    400098: Tarkus_Rig_V11:mixamorig:LeftHandIndex1
+    400100: Tarkus_Rig_V11:mixamorig:LeftHandIndex2
+    400102: Tarkus_Rig_V11:mixamorig:LeftHandIndex3
+    400104: Tarkus_Rig_V11:mixamorig:LeftHandIndex4
+    400106: Tarkus_Rig_V11:mixamorig:LeftHandMiddle1
+    400108: Tarkus_Rig_V11:mixamorig:LeftHandMiddle2
+    400110: Tarkus_Rig_V11:mixamorig:LeftHandMiddle3
+    400112: Tarkus_Rig_V11:mixamorig:LeftHandMiddle4
+    400114: Tarkus_Rig_V11:mixamorig:LeftHandPinky1
+    400116: Tarkus_Rig_V11:mixamorig:LeftHandPinky2
+    400118: Tarkus_Rig_V11:mixamorig:LeftHandPinky3
+    400120: Tarkus_Rig_V11:mixamorig:LeftHandPinky4
+    400122: Tarkus_Rig_V11:mixamorig:LeftHandRing1
+    400124: Tarkus_Rig_V11:mixamorig:LeftHandRing2
+    400126: Tarkus_Rig_V11:mixamorig:LeftHandRing3
+    400128: Tarkus_Rig_V11:mixamorig:LeftHandRing4
+    400130: Tarkus_Rig_V11:mixamorig:LeftHandThumb1
+    400132: Tarkus_Rig_V11:mixamorig:LeftHandThumb2
+    400134: Tarkus_Rig_V11:mixamorig:LeftHandThumb3
+    400136: Tarkus_Rig_V11:mixamorig:LeftHandThumb4
+    400138: Tarkus_Rig_V11:mixamorig:LeftLeg
+    400140: Tarkus_Rig_V11:mixamorig:LeftShoulder
+    400142: Tarkus_Rig_V11:mixamorig:LeftToe_End
+    400144: Tarkus_Rig_V11:mixamorig:LeftToeBase
+    400146: Tarkus_Rig_V11:mixamorig:LeftUpLeg
+    400148: Tarkus_Rig_V11:mixamorig:Neck
+    400150: Tarkus_Rig_V11:mixamorig:RightArm
+    400152: Tarkus_Rig_V11:mixamorig:RightFoot
+    400154: Tarkus_Rig_V11:mixamorig:RightForeArm
+    400156: Tarkus_Rig_V11:mixamorig:RightHand
+    400158: Tarkus_Rig_V11:mixamorig:RightHandIndex1
+    400160: Tarkus_Rig_V11:mixamorig:RightHandIndex2
+    400162: Tarkus_Rig_V11:mixamorig:RightHandIndex3
+    400164: Tarkus_Rig_V11:mixamorig:RightHandIndex4
+    400166: Tarkus_Rig_V11:mixamorig:RightHandMiddle1
+    400168: Tarkus_Rig_V11:mixamorig:RightHandMiddle2
+    400170: Tarkus_Rig_V11:mixamorig:RightHandMiddle3
+    400172: Tarkus_Rig_V11:mixamorig:RightHandMiddle4
+    400174: Tarkus_Rig_V11:mixamorig:RightHandPinky1
+    400176: Tarkus_Rig_V11:mixamorig:RightHandPinky2
+    400178: Tarkus_Rig_V11:mixamorig:RightHandPinky3
+    400180: Tarkus_Rig_V11:mixamorig:RightHandPinky4
+    400182: Tarkus_Rig_V11:mixamorig:RightHandRing1
+    400184: Tarkus_Rig_V11:mixamorig:RightHandRing2
+    400186: Tarkus_Rig_V11:mixamorig:RightHandRing3
+    400188: Tarkus_Rig_V11:mixamorig:RightHandRing4
+    400190: Tarkus_Rig_V11:mixamorig:RightHandThumb1
+    400192: Tarkus_Rig_V11:mixamorig:RightHandThumb2
+    400194: Tarkus_Rig_V11:mixamorig:RightHandThumb3
+    400196: Tarkus_Rig_V11:mixamorig:RightHandThumb4
+    400198: Tarkus_Rig_V11:mixamorig:RightLeg
+    400200: Tarkus_Rig_V11:mixamorig:RightShoulder
+    400202: Tarkus_Rig_V11:mixamorig:RightToe_End
+    400204: Tarkus_Rig_V11:mixamorig:RightToeBase
+    400206: Tarkus_Rig_V11:mixamorig:RightUpLeg
+    400208: Tarkus_Rig_V11:mixamorig:Spine
+    400210: Tarkus_Rig_V11:mixamorig:Spine1
+    400212: Tarkus_Rig_V11:mixamorig:Spine2
+    400214: Tarkus_Rig_V11:Neck_Ctrl
+    400216: Tarkus_Rig_V11:Neck_O
+    400218: Tarkus_Rig_V11:Right_Arm_FK_Ctrl
+    400220: Tarkus_Rig_V11:Right_Arm_FK_O
+    400222: Tarkus_Rig_V11:Right_Arm_IK
+    400224: Tarkus_Rig_V11:Right_Arm_IK_Ctrl
+    400226: Tarkus_Rig_V11:Right_Arm_IK_O
+    400228: Tarkus_Rig_V11:Right_Ball
+    400230: Tarkus_Rig_V11:Right_Ball_IK
+    400232: Tarkus_Rig_V11:Right_Ball_O
+    400234: Tarkus_Rig_V11:Right_Elbow_FK_Ctrl
+    400236: Tarkus_Rig_V11:Right_Elbow_FK_O
+    400238: Tarkus_Rig_V11:Right_Eye
+    400240: Tarkus_Rig_V11:Right_Fingers_grp
+    400242: Tarkus_Rig_V11:Right_Grind
+    400244: Tarkus_Rig_V11:Right_Grind_O
+    400246: Tarkus_Rig_V11:Right_Hand_Ctrl
+    400248: Tarkus_Rig_V11:Right_HeelPivot
+    400250: Tarkus_Rig_V11:Right_HeelPivot_O
+    400252: Tarkus_Rig_V11:Right_Leg_IK
+    400254: Tarkus_Rig_V11:Right_Leg_IK_Ctrl
+    400256: Tarkus_Rig_V11:Right_Leg_IK_O
+    400258: Tarkus_Rig_V11:Right_Shoulder_Ctrl
+    400260: Tarkus_Rig_V11:Right_Shoulder_O
+    400262: Tarkus_Rig_V11:Right_StandTip
+    400264: Tarkus_Rig_V11:Right_StandTip_O
+    400266: Tarkus_Rig_V11:Right_Thumb_Ctrl
+    400268: Tarkus_Rig_V11:Right_Thumb_O
+    400270: Tarkus_Rig_V11:Right_Toe_IK
+    400272: Tarkus_Rig_V11:Right_ToeTap
+    400274: Tarkus_Rig_V11:Right_ToeTap_O
+    400276: Tarkus_Rig_V11:Right_Wrist_FK_Ctrl
+    400278: Tarkus_Rig_V11:Right_Wrist_FK_O
+    400280: Tarkus_Rig_V11:Root_Ctrl
+    400282: Tarkus_Rig_V11:Root_O
+    400284: Tarkus_Rig_V11:Shoulder_L
+    400286: Tarkus_Rig_V11:Shoulder_R
+    400288: Tarkus_Rig_V11:Spine01_Ctrl
+    400290: Tarkus_Rig_V11:Spine01_O
+    400292: Tarkus_Rig_V11:Spine_Ctrl
+    400294: Tarkus_Rig_V11:Spine_O
+    400296: Tarkus_Rig_V11:Tarkus_Mesh
+    400298: Tarkus_Rig_V11:TarkusRig
+    400300: Tarkus_Rig_V11:Torso
+    400302: //RootNode
+    2300000: club
+    2300002: shield
+    3300000: club
+    3300002: shield
+    4300000: club
+    4300002: shield
+    4300004: Tarkus_Rig_V11:LowerBody
+    4300006: Tarkus_Rig_V11:Head
+    4300008: Tarkus_Rig_V11:Torso
+    4300010: Tarkus_Rig_V11:Arms
+    4300012: Tarkus_Rig_V11:Shoulder_R
+    4300014: Tarkus_Rig_V11:Shoulder_L
+    4300016: Tarkus_Rig_V11:Right_Eye
+    4300018: Tarkus_Rig_V11:Left_Eye
+    4300020: Tarkus_Rig_V11:Feather
+    7400000: Tarkus_Block_01
+    9500000: //RootNode
+    13700000: Tarkus_Rig_V11:Arms
+    13700002: Tarkus_Rig_V11:Feather
+    13700004: Tarkus_Rig_V11:Head
+    13700006: Tarkus_Rig_V11:Left_Eye
+    13700008: Tarkus_Rig_V11:LowerBody
+    13700010: Tarkus_Rig_V11:Right_Eye
+    13700012: Tarkus_Rig_V11:Shoulder_L
+    13700014: Tarkus_Rig_V11:Shoulder_R
+    13700016: Tarkus_Rig_V11:Torso
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Tarkus_Rig_V11:mixamorig:Spine2' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tarkus_Block_01
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: club
+        weight: 0
+      - path: shield
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_FK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_FK_O/Tarkus_Rig_V11:Left_Arm_FK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_FK_O/Tarkus_Rig_V11:Left_Arm_FK_Ctrl/Tarkus_Rig_V11:Left_Elbow_FK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_FK_O/Tarkus_Rig_V11:Left_Arm_FK_Ctrl/Tarkus_Rig_V11:Left_Elbow_FK_O/Tarkus_Rig_V11:Left_Elbow_FK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_FK_O/Tarkus_Rig_V11:Left_Arm_FK_Ctrl/Tarkus_Rig_V11:Left_Elbow_FK_O/Tarkus_Rig_V11:Left_Elbow_FK_Ctrl/Tarkus_Rig_V11:Left_Wrist_FK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_FK_O/Tarkus_Rig_V11:Left_Arm_FK_Ctrl/Tarkus_Rig_V11:Left_Elbow_FK_O/Tarkus_Rig_V11:Left_Elbow_FK_Ctrl/Tarkus_Rig_V11:Left_Wrist_FK_O/Tarkus_Rig_V11:Left_Wrist_FK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_IK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Arm_IK_O/Tarkus_Rig_V11:Left_Arm_IK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Fingers_grp
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Fingers_grp/Tarkus_Rig_V11:Left_Thumb_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Fingers_grp/Tarkus_Rig_V11:Left_Thumb_O/Tarkus_Rig_V11:Left_Thumb_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Hand_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_Ball_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_Ball_O/Tarkus_Rig_V11:Left_Ball
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_Ball_O/Tarkus_Rig_V11:Left_Ball/Tarkus_Rig_V11:Left_Leg_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_ToeTap_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_ToeTap_O/Tarkus_Rig_V11:Left_ToeTap
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_ToeTap_O/Tarkus_Rig_V11:Left_ToeTap/Tarkus_Rig_V11:Left_Ball_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Left_Leg_IK_O/Tarkus_Rig_V11:Left_Leg_IK_Ctrl/Tarkus_Rig_V11:Left_HeelPivot_O/Tarkus_Rig_V11:Left_HeelPivot/Tarkus_Rig_V11:Left_StandTip_O/Tarkus_Rig_V11:Left_StandTip/Tarkus_Rig_V11:Left_Grind_O/Tarkus_Rig_V11:Left_Grind/Tarkus_Rig_V11:Left_ToeTap_O/Tarkus_Rig_V11:Left_ToeTap/Tarkus_Rig_V11:Left_Toe_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:LeftUpLeg
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:LeftUpLeg/Tarkus_Rig_V11:mixamorig:LeftLeg
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:LeftUpLeg/Tarkus_Rig_V11:mixamorig:LeftLeg/Tarkus_Rig_V11:mixamorig:LeftFoot
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:LeftUpLeg/Tarkus_Rig_V11:mixamorig:LeftLeg/Tarkus_Rig_V11:mixamorig:LeftFoot/Tarkus_Rig_V11:mixamorig:LeftToeBase
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:LeftUpLeg/Tarkus_Rig_V11:mixamorig:LeftLeg/Tarkus_Rig_V11:mixamorig:LeftFoot/Tarkus_Rig_V11:mixamorig:LeftToeBase/Tarkus_Rig_V11:mixamorig:LeftToe_End
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:RightUpLeg
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:RightUpLeg/Tarkus_Rig_V11:mixamorig:RightLeg
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:RightUpLeg/Tarkus_Rig_V11:mixamorig:RightLeg/Tarkus_Rig_V11:mixamorig:RightFoot
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:RightUpLeg/Tarkus_Rig_V11:mixamorig:RightLeg/Tarkus_Rig_V11:mixamorig:RightFoot/Tarkus_Rig_V11:mixamorig:RightToeBase
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:RightUpLeg/Tarkus_Rig_V11:mixamorig:RightLeg/Tarkus_Rig_V11:mixamorig:RightFoot/Tarkus_Rig_V11:mixamorig:RightToeBase/Tarkus_Rig_V11:mixamorig:RightToe_End
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandIndex1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandIndex1/Tarkus_Rig_V11:mixamorig:LeftHandIndex2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandIndex1/Tarkus_Rig_V11:mixamorig:LeftHandIndex2/Tarkus_Rig_V11:mixamorig:LeftHandIndex3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandIndex1/Tarkus_Rig_V11:mixamorig:LeftHandIndex2/Tarkus_Rig_V11:mixamorig:LeftHandIndex3/Tarkus_Rig_V11:mixamorig:LeftHandIndex4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandMiddle1/Tarkus_Rig_V11:mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandMiddle1/Tarkus_Rig_V11:mixamorig:LeftHandMiddle2/Tarkus_Rig_V11:mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandMiddle1/Tarkus_Rig_V11:mixamorig:LeftHandMiddle2/Tarkus_Rig_V11:mixamorig:LeftHandMiddle3/Tarkus_Rig_V11:mixamorig:LeftHandMiddle4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandPinky1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandPinky1/Tarkus_Rig_V11:mixamorig:LeftHandPinky2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandPinky1/Tarkus_Rig_V11:mixamorig:LeftHandPinky2/Tarkus_Rig_V11:mixamorig:LeftHandPinky3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandPinky1/Tarkus_Rig_V11:mixamorig:LeftHandPinky2/Tarkus_Rig_V11:mixamorig:LeftHandPinky3/Tarkus_Rig_V11:mixamorig:LeftHandPinky4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandRing1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandRing1/Tarkus_Rig_V11:mixamorig:LeftHandRing2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandRing1/Tarkus_Rig_V11:mixamorig:LeftHandRing2/Tarkus_Rig_V11:mixamorig:LeftHandRing3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandRing1/Tarkus_Rig_V11:mixamorig:LeftHandRing2/Tarkus_Rig_V11:mixamorig:LeftHandRing3/Tarkus_Rig_V11:mixamorig:LeftHandRing4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandThumb1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandThumb1/Tarkus_Rig_V11:mixamorig:LeftHandThumb2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandThumb1/Tarkus_Rig_V11:mixamorig:LeftHandThumb2/Tarkus_Rig_V11:mixamorig:LeftHandThumb3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:LeftShoulder/Tarkus_Rig_V11:mixamorig:LeftArm/Tarkus_Rig_V11:mixamorig:LeftForeArm/Tarkus_Rig_V11:mixamorig:LeftHand/Tarkus_Rig_V11:mixamorig:LeftHandThumb1/Tarkus_Rig_V11:mixamorig:LeftHandThumb2/Tarkus_Rig_V11:mixamorig:LeftHandThumb3/Tarkus_Rig_V11:mixamorig:LeftHandThumb4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:Neck
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:Neck/Tarkus_Rig_V11:mixamorig:Head
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:Neck/Tarkus_Rig_V11:mixamorig:Head/Tarkus_Rig_V11:mixamorig:HeadTop_End
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandIndex1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandIndex1/Tarkus_Rig_V11:mixamorig:RightHandIndex2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandIndex1/Tarkus_Rig_V11:mixamorig:RightHandIndex2/Tarkus_Rig_V11:mixamorig:RightHandIndex3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandIndex1/Tarkus_Rig_V11:mixamorig:RightHandIndex2/Tarkus_Rig_V11:mixamorig:RightHandIndex3/Tarkus_Rig_V11:mixamorig:RightHandIndex4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandMiddle1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandMiddle1/Tarkus_Rig_V11:mixamorig:RightHandMiddle2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandMiddle1/Tarkus_Rig_V11:mixamorig:RightHandMiddle2/Tarkus_Rig_V11:mixamorig:RightHandMiddle3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandMiddle1/Tarkus_Rig_V11:mixamorig:RightHandMiddle2/Tarkus_Rig_V11:mixamorig:RightHandMiddle3/Tarkus_Rig_V11:mixamorig:RightHandMiddle4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandPinky1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandPinky1/Tarkus_Rig_V11:mixamorig:RightHandPinky2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandPinky1/Tarkus_Rig_V11:mixamorig:RightHandPinky2/Tarkus_Rig_V11:mixamorig:RightHandPinky3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandPinky1/Tarkus_Rig_V11:mixamorig:RightHandPinky2/Tarkus_Rig_V11:mixamorig:RightHandPinky3/Tarkus_Rig_V11:mixamorig:RightHandPinky4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandRing1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandRing1/Tarkus_Rig_V11:mixamorig:RightHandRing2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandRing1/Tarkus_Rig_V11:mixamorig:RightHandRing2/Tarkus_Rig_V11:mixamorig:RightHandRing3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandRing1/Tarkus_Rig_V11:mixamorig:RightHandRing2/Tarkus_Rig_V11:mixamorig:RightHandRing3/Tarkus_Rig_V11:mixamorig:RightHandRing4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandThumb1
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandThumb1/Tarkus_Rig_V11:mixamorig:RightHandThumb2
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandThumb1/Tarkus_Rig_V11:mixamorig:RightHandThumb2/Tarkus_Rig_V11:mixamorig:RightHandThumb3
+        weight: 1
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:mixamorig:Hips/Tarkus_Rig_V11:mixamorig:Spine/Tarkus_Rig_V11:mixamorig:Spine1/Tarkus_Rig_V11:mixamorig:Spine2/Tarkus_Rig_V11:mixamorig:RightShoulder/Tarkus_Rig_V11:mixamorig:RightArm/Tarkus_Rig_V11:mixamorig:RightForeArm/Tarkus_Rig_V11:mixamorig:RightHand/Tarkus_Rig_V11:mixamorig:RightHandThumb1/Tarkus_Rig_V11:mixamorig:RightHandThumb2/Tarkus_Rig_V11:mixamorig:RightHandThumb3/Tarkus_Rig_V11:mixamorig:RightHandThumb4
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_FK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_FK_O/Tarkus_Rig_V11:Right_Arm_FK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_FK_O/Tarkus_Rig_V11:Right_Arm_FK_Ctrl/Tarkus_Rig_V11:Right_Elbow_FK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_FK_O/Tarkus_Rig_V11:Right_Arm_FK_Ctrl/Tarkus_Rig_V11:Right_Elbow_FK_O/Tarkus_Rig_V11:Right_Elbow_FK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_FK_O/Tarkus_Rig_V11:Right_Arm_FK_Ctrl/Tarkus_Rig_V11:Right_Elbow_FK_O/Tarkus_Rig_V11:Right_Elbow_FK_Ctrl/Tarkus_Rig_V11:Right_Wrist_FK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_FK_O/Tarkus_Rig_V11:Right_Arm_FK_Ctrl/Tarkus_Rig_V11:Right_Elbow_FK_O/Tarkus_Rig_V11:Right_Elbow_FK_Ctrl/Tarkus_Rig_V11:Right_Wrist_FK_O/Tarkus_Rig_V11:Right_Wrist_FK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_IK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Arm_IK_O/Tarkus_Rig_V11:Right_Arm_IK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Fingers_grp
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Fingers_grp/Tarkus_Rig_V11:Right_Thumb_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Fingers_grp/Tarkus_Rig_V11:Right_Thumb_O/Tarkus_Rig_V11:Right_Thumb_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Hand_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_Ball_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_Ball_O/Tarkus_Rig_V11:Right_Ball
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_Ball_O/Tarkus_Rig_V11:Right_Ball/Tarkus_Rig_V11:Right_Leg_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_ToeTap_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_ToeTap_O/Tarkus_Rig_V11:Right_ToeTap
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_ToeTap_O/Tarkus_Rig_V11:Right_ToeTap/Tarkus_Rig_V11:Right_Ball_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Right_Leg_IK_O/Tarkus_Rig_V11:Right_Leg_IK_Ctrl/Tarkus_Rig_V11:Right_HeelPivot_O/Tarkus_Rig_V11:Right_HeelPivot/Tarkus_Rig_V11:Right_StandTip_O/Tarkus_Rig_V11:Right_StandTip/Tarkus_Rig_V11:Right_Grind_O/Tarkus_Rig_V11:Right_Grind/Tarkus_Rig_V11:Right_ToeTap_O/Tarkus_Rig_V11:Right_ToeTap/Tarkus_Rig_V11:Right_Toe_IK
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Left_Shoulder_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Left_Shoulder_O/Tarkus_Rig_V11:Left_Shoulder_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Neck_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Neck_O/Tarkus_Rig_V11:Neck_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Neck_O/Tarkus_Rig_V11:Neck_Ctrl/Tarkus_Rig_V11:Head_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Neck_O/Tarkus_Rig_V11:Neck_Ctrl/Tarkus_Rig_V11:Head_O/Tarkus_Rig_V11:Head_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Right_Shoulder_O
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Master:_ctrl/Tarkus_Rig_V11:Root_O/Tarkus_Rig_V11:Root_Ctrl/Tarkus_Rig_V11:Spine_O/Tarkus_Rig_V11:Spine_Ctrl/Tarkus_Rig_V11:Spine01_O/Tarkus_Rig_V11:Spine01_Ctrl/Tarkus_Rig_V11:Chest_O/Tarkus_Rig_V11:Chest_Ctrl/Tarkus_Rig_V11:Right_Shoulder_O/Tarkus_Rig_V11:Right_Shoulder_Ctrl
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Arms
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Feather
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Head
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Left_Eye
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:LowerBody
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Right_Eye
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Shoulder_L
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Shoulder_R
+        weight: 0
+      - path: Tarkus_Rig_V11:TarkusRig/Tarkus_Rig_V11:Tarkus_Mesh/Tarkus_Rig_V11:Torso
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.9
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Tarkus_Rig_V11:mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tarkus_Rig_V11:mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Tarkus_ShieldBlock_V3(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: club
+      position: {x: 58.10037, y: 94.61864, z: -11.854357}
+      rotation: {x: -0.122792676, y: 0.323177, z: -0.0020855493, w: 0.9383359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shield
+      position: {x: -41.039864, y: 117.88681, z: 28.08638}
+      rotation: {x: -0.5238415, y: 0.054946385, z: -0.11884929, w: 0.84169227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:TarkusRig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Master:_ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Arm_FK_O
+      position: {x: -25.630121, y: 159.67398, z: 9.017511}
+      rotation: {x: 0.17206556, y: 0.0955269, z: 0.5204545, w: 0.8309002}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Arm_FK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Elbow_FK_O
+      position: {x: -32.11142, y: 1.4210855e-14, z: -8.881784e-16}
+      rotation: {x: 0.0085289925, y: 0.094034284, z: -0.08558901, w: 0.99184644}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Elbow_FK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Wrist_FK_O
+      position: {x: -28.90824, y: 0, z: -5.3290705e-15}
+      rotation: {x: 0, y: -0, z: -3.176561e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Wrist_FK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Arm_IK
+      position: {x: -47.15492, y: 119.42305, z: 32.916435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Arm_IK_O
+      position: {x: -56.024727, y: 119.423065, z: -1.675609}
+      rotation: {x: -0.045540307, y: 0.085386805, z: 0.46838498, w: 0.8782088}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Arm_IK_Ctrl
+      position: {x: -1.815, y: -7.366, z: 34.896}
+      rotation: {x: 0.036822256, y: 0.5314537, z: 0.05849378, w: 0.8442628}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Fingers_grp
+      position: {x: -47.154896, y: 119.423096, z: 32.91641}
+      rotation: {x: -0.25004068, y: 0.558727, z: 0.41946304, w: 0.6703391}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Thumb_O
+      position: {x: -5.2935705, y: -1.5279711, z: 7.2375417}
+      rotation: {x: -0.31570047, y: 0.24629253, z: 0.552789, w: 0.73081976}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Thumb_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.05208691, y: 0.15020473, z: -0.26488042, w: 0.9510857}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Hand_Ctrl
+      position: {x: -47.154896, y: 119.423096, z: 32.91641}
+      rotation: {x: -0.41494325, y: 0.33542806, z: 0.050304934, w: 0.8442628}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Leg_IK_O
+      position: {x: -26.526, y: 16.330189, z: -4.276566}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Leg_IK_Ctrl
+      position: {x: 4.163252, y: 0, z: 26.102129}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_HeelPivot_O
+      position: {x: 3.5527137e-15, y: 0, z: -1.7763568e-15}
+      rotation: {x: -0.31359187, y: 0.26244915, z: 0.58568907, w: 0.69982064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_HeelPivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_StandTip_O
+      position: {x: -36.26937, y: 0.7183904, z: 10.524127}
+      rotation: {x: -0.06287028, y: 0.3505363, z: -0.00034187976, w: 0.9344365}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_StandTip
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Grind_O
+      position: {x: 16.06578, y: 0, z: 9.769963e-15}
+      rotation: {x: -5.551115e-17, y: -2.7755576e-17, z: -4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Grind
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.1736482, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Ball_O
+      position: {x: -0, y: -1.0658141e-14, z: -6.661338e-15}
+      rotation: {x: 5.551115e-17, y: 2.7755576e-17, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Ball
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Leg_IK
+      position: {x: 18.216444, y: -1.0490979, z: 15.823058}
+      rotation: {x: 0.54242456, y: -0.45362493, z: -0.45362493, w: 0.54242456}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_ToeTap_O
+      position: {x: -0, y: -1.0658141e-14, z: -6.661338e-15}
+      rotation: {x: 5.551115e-17, y: 2.7755576e-17, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_ToeTap
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Ball_IK
+      position: {x: -0, y: 0, z: 1.110223e-16}
+      rotation: {x: 0.06287028, y: -0.3505363, z: 0.00034187976, w: 0.9344365}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Toe_IK
+      position: {x: -16.06578, y: 7.1054274e-15, z: -2.8865799e-15}
+      rotation: {x: 2.311116e-33, y: -6.162976e-33, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Arm_FK_O
+      position: {x: 25.430527, y: 159.67398, z: -9.567044}
+      rotation: {x: 0.19441858, y: 0.016318498, z: 0.81345934, w: 0.54792243}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Arm_FK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.034899496, w: 0.99939084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Elbow_FK_O
+      position: {x: -32.111233, y: -1.4210855e-14, z: -2.6645353e-15}
+      rotation: {x: -0.008530063, y: 0.09403356, z: 0.08560027, w: 0.9918455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Elbow_FK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.1736482, z: -0, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Wrist_FK_O
+      position: {x: -28.908422, y: 0, z: -1.7763568e-15}
+      rotation: {x: 0, y: -0, z: -2.6418906e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Wrist_FK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.2578342, y: -0.08418599, z: 0.022557568, w: 0.96225023}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Arm_IK
+      position: {x: 56.025, y: 119.423065, z: -1.675609}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Arm_IK_O
+      position: {x: 56.025, y: 119.423065, z: -1.675609}
+      rotation: {x: -0.085386485, y: 0.0455396, z: 0.87821114, w: 0.46838072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Arm_IK_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Fingers_grp
+      position: {x: 55.806404, y: 109.77822, z: -14.588422}
+      rotation: {x: 0.14627773, y: 0.30211732, z: 0.84508324, w: 0.41612783}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Thumb_O
+      position: {x: -5.2934804, y: 1.5281097, z: 7.237564}
+      rotation: {x: 0.31570062, y: 0.24629945, z: -0.55278164, w: 0.7308229}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Thumb_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.40197495, y: -0.17794324, z: -0.031151751, w: 0.8976536}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Hand_Ctrl
+      position: {x: 55.806404, y: 109.77823, z: -14.588421}
+      rotation: {x: -0.122792676, y: 0.323177, z: -0.0020855493, w: 0.9383359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Leg_IK_O
+      position: {x: 26.526, y: 16.330189, z: -4.276566}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Leg_IK_Ctrl
+      position: {x: -0, y: 0, z: -44.775314}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_HeelPivot_O
+      position: {x: -3.5527137e-15, y: 0, z: -7.1054274e-15}
+      rotation: {x: -0.26244915, y: 0.31359187, z: 0.69982064, w: 0.58568907}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_HeelPivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_StandTip_O
+      position: {x: -36.26937, y: -0.7183904, z: 10.524127}
+      rotation: {x: 0.06287028, y: 0.3505363, z: 0.00034187976, w: 0.9344365}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_StandTip
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Grind_O
+      position: {x: 16.06578, y: -1.0658141e-14, z: -1.3100632e-14}
+      rotation: {x: -4.9303807e-32, y: -0, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Grind
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.64278764, w: 0.76604444}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Ball_O
+      position: {x: -0, y: -3.5527137e-15, z: 0}
+      rotation: {x: -4.9303807e-32, y: -0, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Ball
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Leg_IK
+      position: {x: 18.216444, y: 1.0490979, z: 15.823058}
+      rotation: {x: -0.45362496, y: 0.5424246, z: 0.5424246, w: -0.45362496}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_ToeTap_O
+      position: {x: -0, y: -3.5527137e-15, z: 0}
+      rotation: {x: -4.9303807e-32, y: -0, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_ToeTap
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Ball_IK
+      position: {x: -0, y: -3.5527137e-15, z: 0}
+      rotation: {x: -0.06287028, y: -0.3505363, z: -0.00034187976, w: 0.9344365}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Toe_IK
+      position: {x: -16.06578, y: 3.5527137e-15, z: 1.3100632e-14}
+      rotation: {x: -4.9303807e-32, y: -2.4651903e-32, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Root_O
+      position: {x: -0, y: 113.95443, z: 0}
+      rotation: {x: 3.4330566e-36, y: 6.973915e-18, z: -4.922711e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Root_Ctrl
+      position: {x: -0, y: -13, z: 0}
+      rotation: {x: 0, y: 0.1736482, z: -0, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Spine_O
+      position: {x: -7.70372e-34, y: 10.583759, z: -1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Spine_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Spine01_O
+      position: {x: 1.4795716e-31, y: 11.058243, z: -1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Spine01_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.09584575, y: -0, z: -0, w: 0.9953962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Chest_O
+      position: {x: -1.8585785e-31, y: 28.761368, z: -3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Chest_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Shoulder_O
+      position: {x: -13.602327, y: 12.901425, z: -2.3984337}
+      rotation: {x: 0, y: 0, z: 0.17374116, w: 0.98479134}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Shoulder_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Neck_O
+      position: {x: -9.984501e-31, y: 19.731058, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Neck_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Head_O
+      position: {x: -8.906703e-31, y: 9.825772, z: 2.866352}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Head_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0.1736482, z: -0, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Shoulder_O
+      position: {x: 13.602, y: 12.901425, z: -2.3984337}
+      rotation: {x: 0, y: 0, z: 0.9847928, w: 0.17373276}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Shoulder_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:Hips
+      position: {x: 0, y: 116.85093, z: 0}
+      rotation: {x: -0.033294085, y: -0.033294085, z: -0.70632255, w: 0.7063225}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:Spine
+      position: {x: -10.630897, y: -2.3605332e-15, z: -1.110223e-16}
+      rotation: {x: -0, y: 0.0020098686, z: 0.0000000017462298, w: 0.999998}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:Spine1
+      position: {x: -11.103366, y: -2.4657324e-15, z: 8.970602e-14}
+      rotation: {x: 0.0000000018422165, y: -0.006872827, z: 0.000000004194704, w: 0.9999764}
+      scale: {x: 1.0000036, y: 1.0000039, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:Spine2
+      position: {x: -28.917406, y: -6.4186988e-15, z: -2.0428104e-14}
+      rotation: {x: -0.0000000014360989, y: 0.05194198, z: 0.000000023783667, w: 0.9986501}
+      scale: {x: 1.0000027, y: 1.0000021, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:Neck
+      position: {x: -19.731058, y: -4.374628e-15, z: 1.4993581e-14}
+      rotation: {x: -0.98994625, y: -0.0000000054961338, z: 0.14144465, w: -0.000000003497867}
+      scale: {x: 1.000001, y: 1.0000017, z: 1.000007}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:Head
+      position: {x: -10.235319, y: 2.1384314e-15, z: 2.1681947e-15}
+      rotation: {x: 0.0000000034978667, y: 0.14144465, z: 0.000000005496131, w: 0.98994625}
+      scale: {x: 1.0000007, y: 1.0000017, z: 1.0000067}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:HeadTop_End
+      position: {x: -16.190323, y: 3.0343437e-15, z: 4.186973e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftShoulder
+      position: {x: -12.901425, y: -13.602327, z: -2.3984337}
+      rotation: {x: 0.0000000045580726, y: 0.0000000037252907, z: 0.8141351, w: 0.58067554}
+      scale: {x: 0.99999857, y: 0.9999988, z: 0.99999994}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftArm
+      position: {x: -14.437925, y: -1.6029317e-15, z: 9.8607613e-32}
+      rotation: {x: -0.0014979946, y: 0.00030884353, z: -0.15000333, w: 0.9886843}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftForeArm
+      position: {x: -32.11142, y: 1.2225475e-14, z: -1.0869881e-15}
+      rotation: {x: 0.007594865, y: 0.03005244, z: -0.03783685, w: 0.9988031}
+      scale: {x: 0.99999976, y: 1, z: 1.0000011}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHand
+      position: {x: -28.90824, y: 2.7068014e-14, z: 1.099647e-14}
+      rotation: {x: -0, y: -0, z: 2.910383e-10, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandIndex1
+      position: {x: -16.178047, y: -0.0038554159, z: 4.403005}
+      rotation: {x: -0.02338345, y: -0.013108036, z: 0.092089504, w: 0.9953898}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandIndex2
+      position: {x: -6.0058575, y: 3.0145236e-16, z: 3.799812e-16}
+      rotation: {x: -0.044391554, y: 0.001064797, z: 0.030887391, w: 0.99853605}
+      scale: {x: 1.0000002, y: 1.0000012, z: 0.99999976}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandIndex3
+      position: {x: -4.058141, y: 4.3695685e-15, z: 3.50905e-15}
+      rotation: {x: -0.052135076, y: -0.0016308294, z: 0.027806623, w: 0.9982515}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandIndex4
+      position: {x: -4.2582645, y: -5.9006703e-16, z: -5.5626187e-15}
+      rotation: {x: -0, y: -0, z: 0.00000001041917, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandMiddle1
+      position: {x: -15.617358, y: -0.35170978, z: -0.27039388}
+      rotation: {x: -0.027997594, y: -0.022260824, z: 0.08831841, w: 0.99544996}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandMiddle2
+      position: {x: -7.2168803, y: 1.4949422e-16, z: -4.5774354e-16}
+      rotation: {x: -0.027567146, y: -0.0002638902, z: 0.031637926, w: 0.9991191}
+      scale: {x: 0.9999995, y: 1.0000005, z: 0.99999994}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandMiddle3
+      position: {x: -4.6477695, y: -7.812662e-15, z: -2.0763278e-15}
+      rotation: {x: -0.02399408, y: -0.0029083719, z: 0.029214565, w: 0.9992809}
+      scale: {x: 1.0000007, y: 0.99999964, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandMiddle4
+      position: {x: -4.671997, y: -4.107939e-15, z: -8.1098137e-16}
+      rotation: {x: -0, y: -0, z: -0.000000009720679, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandRing1
+      position: {x: -14.521419, y: -0.5440096, z: -3.9738028}
+      rotation: {x: -0.017858693, y: -0.04330557, z: 0.08193496, w: 0.9955362}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandRing2
+      position: {x: -6.1661606, y: -1.5911307e-16, z: -7.511521e-17}
+      rotation: {x: -0.0018085819, y: -0.0025815554, z: 0.030765725, w: 0.99952173}
+      scale: {x: 1.0000007, y: 1.000001, z: 0.99999994}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandRing3
+      position: {x: -4.752509, y: 1.7049225e-16, z: 4.6690875e-16}
+      rotation: {x: 0.0016915359, y: 0.0006832702, z: 0.025908351, w: 0.9996627}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandRing4
+      position: {x: -4.019192, y: 3.0624785e-15, z: 2.6783613e-16}
+      rotation: {x: -0, y: -0, z: -0.000000008095413, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.9999998}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandPinky1
+      position: {x: -13.255332, y: -0.6749122, z: -8.076914}
+      rotation: {x: -0.016689073, y: -0.045652658, z: 0.08134039, w: 0.99550045}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandPinky2
+      position: {x: -5.5840206, y: -2.653368e-15, z: -2.8798413e-18}
+      rotation: {x: 0.0013868036, y: -0.0034757517, z: 0.029119248, w: 0.99956894}
+      scale: {x: 1.0000002, y: 1.0000006, z: 0.99999994}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandPinky3
+      position: {x: -3.504802, y: 2.1712582e-15, z: -1.3333209e-15}
+      rotation: {x: 0.0069638616, y: 0.0014415258, z: 0.026407763, w: 0.999626}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandPinky4
+      position: {x: -3.7031066, y: -6.0662365e-15, z: -2.6009256e-15}
+      rotation: {x: -0, y: -0, z: -0.000000014311807, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandThumb1
+      position: {x: -5.2935705, y: -1.5279711, z: 7.2375417}
+      rotation: {x: -0.4769252, y: 0.30473527, z: 0.2681054, w: 0.77961427}
+      scale: {x: 0.99999976, y: 0.9999989, z: 1.0000004}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandThumb2
+      position: {x: -3.6275651, y: 1.0992978e-15, z: 7.766541e-16}
+      rotation: {x: -0.018269243, y: -0.038327042, z: 0.008762927, w: 0.9990598}
+      scale: {x: 1, y: 1.0000005, z: 1.0000006}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandThumb3
+      position: {x: -3.033591, y: -1.0918481e-15, z: -4.5945307e-15}
+      rotation: {x: 0.066744514, y: -0.02531528, z: -0.014728531, w: 0.99734014}
+      scale: {x: 0.99999887, y: 1.0000004, z: 1.0000006}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftHandThumb4
+      position: {x: -6.0137806, y: -1.9248143e-14, z: 5.0433337e-15}
+      rotation: {x: -0, y: -0, z: -0.0000000018626449, w: 1}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightShoulder
+      position: {x: -12.901425, y: 13.602, z: -2.3984337}
+      rotation: {x: 0.000000006617799, y: -0.0000000055879354, z: 0.8141352, w: -0.58067536}
+      scale: {x: 1.0000014, y: 1.0000017, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightArm
+      position: {x: -14.438602, y: -2.7726391e-15, z: 9.8607613e-32}
+      rotation: {x: 0.0014980491, y: 0.0003088969, z: 0.15000418, w: 0.9886842}
+      scale: {x: 1.0000044, y: 1.0000043, z: 0.99999976}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightForeArm
+      position: {x: -32.111233, y: -1.3600635e-15, z: -3.6768618e-16}
+      rotation: {x: -0.0075959284, y: 0.030050771, z: 0.037838593, w: 0.998803}
+      scale: {x: 0.9999995, y: 0.9999984, z: 1.0000006}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHand
+      position: {x: -28.908422, y: 4.2884588e-15, z: -8.337289e-15}
+      rotation: {x: -0, y: -0, z: -0.0000000021536832, w: 1}
+      scale: {x: 1.0000004, y: 0.99999857, z: 1.0000023}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandIndex1
+      position: {x: -16.178036, y: 0.00401033, z: 4.403026}
+      rotation: {x: 0.023391936, y: -0.013104374, z: -0.09209623, w: 0.99538904}
+      scale: {x: 0.99999946, y: 1.0000011, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandIndex2
+      position: {x: -6.0056896, y: -4.9680865e-16, z: 1.9813963e-16}
+      rotation: {x: 0.04436909, y: 0.0010657443, z: -0.030895865, w: 0.99853677}
+      scale: {x: 1.0000007, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandIndex3
+      position: {x: -4.0580153, y: -1.7618789e-15, z: 3.1819812e-16}
+      rotation: {x: 0.05215334, y: -0.0016301166, z: -0.027800892, w: 0.9982507}
+      scale: {x: 1.0000004, y: 0.99999887, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandIndex4
+      position: {x: -4.258405, y: -6.560906e-16, z: 1.4470555e-17}
+      rotation: {x: -0, y: 0.0000000018626445, z: 0.000000041327425, w: 1}
+      scale: {x: 1, y: 0.99999964, z: 0.9999999}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandMiddle1
+      position: {x: -15.617271, y: 0.35198742, z: -0.2703574}
+      rotation: {x: 0.028004888, y: -0.022256533, z: -0.08832613, w: 0.99544907}
+      scale: {x: 0.9999995, y: 1.0000014, z: 1.0000005}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandMiddle2
+      position: {x: -7.2167473, y: 1.3530898e-15, z: -7.191241e-18}
+      rotation: {x: 0.027560974, y: -0.00026420504, z: -0.031644046, w: 0.9991191}
+      scale: {x: 1.0000007, y: 0.9999995, z: 1.0000004}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandMiddle3
+      position: {x: -4.64774, y: -2.6877126e-15, z: 3.0575054e-15}
+      rotation: {x: 0.023991903, y: -0.002908635, z: -0.029214567, w: 0.999281}
+      scale: {x: 1.0000005, y: 0.9999988, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandMiddle4
+      position: {x: -4.6715474, y: -3.555213e-15, z: -1.6286577e-15}
+      rotation: {x: -0.0000000018626447, y: -0, z: 0.00000003393506, w: 1}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandRing1
+      position: {x: -14.521533, y: 0.5439824, z: -3.9738061}
+      rotation: {x: 0.017859716, y: -0.043305773, z: -0.08194577, w: 0.9955353}
+      scale: {x: 0.9999995, y: 1.0000018, z: 1.000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandRing2
+      position: {x: -6.166154, y: 6.219553e-15, z: 5.7996055e-17}
+      rotation: {x: 0.0018087961, y: -0.0025815293, z: -0.030759944, w: 0.99952185}
+      scale: {x: 1.0000002, y: 0.9999993, z: 1.0000004}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandRing3
+      position: {x: -4.7525716, y: -3.753284e-15, z: 8.103674e-16}
+      rotation: {x: -0.0016915638, y: 0.00068342034, z: -0.02590762, w: 0.9996627}
+      scale: {x: 1.000001, y: 0.99999964, z: 0.9999998}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandRing4
+      position: {x: -4.01948, y: 1.3191201e-14, z: 8.0218763e-16}
+      rotation: {x: -0, y: -0, z: 0.000000007908965, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandPinky1
+      position: {x: -13.255173, y: 0.675302, z: -8.076864}
+      rotation: {x: 0.016692488, y: -0.04564744, z: -0.081351444, w: 0.9954997}
+      scale: {x: 0.9999999, y: 1.0000017, z: 1.0000007}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandPinky2
+      position: {x: -5.583941, y: -2.5548332e-16, z: 2.0495896e-17}
+      rotation: {x: -0.0013866072, y: -0.003475886, z: -0.029119901, w: 0.99956894}
+      scale: {x: 0.99999964, y: 0.9999991, z: 0.9999998}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandPinky3
+      position: {x: -3.5048199, y: 1.4083845e-14, z: -2.0759507e-15}
+      rotation: {x: -0.006963429, y: 0.0014414841, z: -0.02640788, w: 0.999626}
+      scale: {x: 1.0000007, y: 0.99999917, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandPinky4
+      position: {x: -3.7030318, y: -1.4148625e-14, z: 5.94604e-16}
+      rotation: {x: -0, y: -0, z: 0.0000000080472065, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.99999964}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandThumb1
+      position: {x: -5.2934804, y: 1.5281097, z: 7.237564}
+      rotation: {x: 0.47691718, y: 0.304734, z: -0.26811144, w: 0.77961755}
+      scale: {x: 1.0000026, y: 0.99999744, z: 1.000001}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandThumb2
+      position: {x: -3.6275227, y: 2.3076751e-17, z: 4.0145093e-17}
+      rotation: {x: 0.018326253, y: -0.038317576, z: -0.008782446, w: 0.999059}
+      scale: {x: 0.99999917, y: 1, z: 1.0000005}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandThumb3
+      position: {x: -3.0338833, y: -7.387515e-15, z: 2.2596302e-15}
+      rotation: {x: -0.06679184, y: -0.025311535, z: 0.014738686, w: 0.997337}
+      scale: {x: 0.99999857, y: 1.000001, z: 1.0000019}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightHandThumb4
+      position: {x: -6.013434, y: -5.8971573e-15, z: -1.3305567e-14}
+      rotation: {x: -0, y: -0, z: 0.000000007450579, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.9999997}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftUpLeg
+      position: {x: -0, y: -16.094, z: 0}
+      rotation: {x: 0.03461806, y: 0.0022318123, z: 0.9973277, w: 0.06429733}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftLeg
+      position: {x: -43.619595, y: 7.754911e-15, z: -5.7969744e-16}
+      rotation: {x: 0.006646971, y: -0.06103755, z: 0.020249298, w: 0.99790794}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftFoot
+      position: {x: -54.85472, y: -1.2080901e-15, z: -2.6731233e-14}
+      rotation: {x: -0.059932172, y: 0.44917944, z: -0.039619267, w: 0.89054835}
+      scale: {x: 1, y: 1.0000007, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftToeBase
+      position: {x: -24.151783, y: -7.023545e-16, z: 2.6104302e-14}
+      rotation: {x: -0.06287025, y: 0.35053623, z: -0.00034190342, w: 0.9344365}
+      scale: {x: 1.0000005, y: 0.9999999, z: 0.9999995}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:LeftToe_End
+      position: {x: -16.06578, y: 9.319974e-16, z: 2.3061798e-15}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightUpLeg
+      position: {x: -0, y: 16.094, z: 0}
+      rotation: {x: 0.03461806, y: -0.0022318123, z: 0.9973277, w: -0.06429735}
+      scale: {x: 1.0000021, y: 1.0000011, z: 1.0000002}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightLeg
+      position: {x: -43.619595, y: 3.427685e-15, z: -4.144756e-16}
+      rotation: {x: -0.0066469647, y: -0.061037555, z: -0.020249229, w: 0.99790794}
+      scale: {x: 0.9999999, y: 1.0000008, z: 1.0000013}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightFoot
+      position: {x: -54.85472, y: -1.4380797e-16, z: -8.490095e-15}
+      rotation: {x: 0.059932165, y: 0.44917947, z: 0.03961924, w: 0.89054835}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000008}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightToeBase
+      position: {x: -24.151783, y: -3.9897835e-15, z: 1.174282e-14}
+      rotation: {x: 0.06287033, y: 0.35053626, z: 0.00034195927, w: 0.93443644}
+      scale: {x: 1.0000005, y: 1.0000001, z: 0.99999964}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:mixamorig:RightToe_End
+      position: {x: -16.06578, y: 5.796895e-15, z: 1.127626e-14}
+      rotation: {x: -0, y: -0.000000029802322, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000005}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Tarkus_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Arms
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Feather
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Left_Eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:LowerBody
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Right_Eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Shoulder_L
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Shoulder_R
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tarkus_Rig_V11:Torso
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

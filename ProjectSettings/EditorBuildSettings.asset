@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_DevoutAssets/Scenes/MainMenu.unity
+    guid: e9ef22b783ce18c4bbd81dcf12da1ede
+  - enabled: 1
+    path: Assets/_DevoutAssets/Scenes/PvP3.unity
+    guid: 6563337b329f7e04698b13cc183ddb1b

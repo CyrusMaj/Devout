@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: ebff034a0b60baa468cbb29739e4cbd3
+timeCreated: 1485904398
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armPlate
+    100002: bandage
+    100004: body
+    100006: chainmail
+    100008: dynamics
+    100010: eye_L
+    100012: eye_R
+    100014: feather
+    100016: gum
+    100018: head
+    100020: leatherSkirt
+    100022: legs
+    100024: scarf
+    100026: scarf_back
+    100028: scarf_front
+    100030: shinPlate_L
+    100032: shinPlate_R
+    100034: shoulderPlate
+    100036: //RootNode
+    400000: armPlate
+    400002: bandage
+    400004: body
+    400006: chainmail
+    400008: dynamics
+    400010: eye_L
+    400012: eye_R
+    400014: feather
+    400016: gum
+    400018: head
+    400020: leatherSkirt
+    400022: legs
+    400024: scarf
+    400026: scarf_back
+    400028: scarf_front
+    400030: shinPlate_L
+    400032: shinPlate_R
+    400034: shoulderPlate
+    400036: //RootNode
+    2300000: armPlate
+    2300002: bandage
+    2300004: body
+    2300006: chainmail
+    2300008: eye_L
+    2300010: eye_R
+    2300012: feather
+    2300014: gum
+    2300016: head
+    2300018: leatherSkirt
+    2300020: legs
+    2300022: scarf
+    2300024: scarf_back
+    2300026: scarf_front
+    2300028: shinPlate_L
+    2300030: shinPlate_R
+    2300032: shoulderPlate
+    3300000: armPlate
+    3300002: bandage
+    3300004: body
+    3300006: chainmail
+    3300008: eye_L
+    3300010: eye_R
+    3300012: feather
+    3300014: gum
+    3300016: head
+    3300018: leatherSkirt
+    3300020: legs
+    3300022: scarf
+    3300024: scarf_back
+    3300026: scarf_front
+    3300028: shinPlate_L
+    3300030: shinPlate_R
+    3300032: shoulderPlate
+    4300000: feather
+    4300002: head
+    4300004: eye_R
+    4300006: eye_L
+    4300008: body
+    4300010: legs
+    4300012: scarf
+    4300014: bandage
+    4300016: shoulderPlate
+    4300018: shinPlate_R
+    4300020: shinPlate_L
+    4300022: armPlate
+    4300024: scarf_front
+    4300026: scarf_back
+    4300028: chainmail
+    4300030: leatherSkirt
+    4300032: gum
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1719459976, guid: 6012f3241c1c1f7409c44769fc0a1db7, type: 3}
+  m_Name: PaladinMovementAI
+  m_EditorClassIdentifier: 
+  description: 
+  version: 16778496
+  aiId: 952b8da1-d30c-485d-a1d5-1809b1dd597f
+  configuration: '{"@type":"Apex.AI.UtilityAI, ApexAI","_rootSelectorId":665dafc34373416fac4a3baba5944733,"_id":952b8da1d30c485da1d51809b1dd597f,"_selectors":[{"@type":"Apex.AI.ScoreSelector,
+    ApexAI","_id":665dafc34373416fac4a3baba5944733,"_qualifiers":[{"@type":"Apex.AI.CompositeAllOrNothingQualifier,
+    ApexAI","_scorers":[]}],"_defaultQualifier":{"@type":"Apex.AI.DefaultQualifier,
+    ApexAI"}}]}'
+  editorConfiguration: '{"offset":{"@x":0,"@y":0},"zoom":1,"SelectorView":{"ViewArea":{"@left":100,"@top":100,"@width":200,"@height":160},"QualifierView":{"Name":"IsEnemyNear"},"DefaultQualifier":{}}}'
